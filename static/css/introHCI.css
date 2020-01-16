@@ -12,8 +12,10 @@
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
+     /* font-family: "Comic Sans MS", "Comic Sans", cursive; */
      border: 1px dotted gray;
      padding: 20px;
+     background-color: rgb(255, 238, 252);
 }
 
 .jumbotron {
@@ -32,3 +34,15 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+/* .project {
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+ }
+
+ .blurb {
+     background-color: #6ae18889;
+     width: 270px;
+ } */
